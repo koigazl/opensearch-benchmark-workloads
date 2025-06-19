@@ -5,7 +5,7 @@
   "description": "Percolator benchmark based on AOL queries",
   "indices": [
     {
-      "name": "queries",
+      "name": "logs-bg-43917-i-queries",
       "body": "index.json"
     }
   ],
